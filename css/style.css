@@ -1,0 +1,156 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 1100px;
+  margin: auto;
+  padding: 20px;
+  font-size: 1.2em; /* Increased base font size */
+}
+
+h1 {
+  font-size: 2.5em; /* Larger H1 */
+}
+
+h2 {
+  font-size: 2em;   /* Larger H2 */
+}
+
+h3 {
+  font-size: 1.7em; /* Larger H3 */
+  padding-bottom: 5px; /* Add some padding below headlines */
+  border-bottom: 1px solid #eee; /* Add a subtle bottom border to headlines */
+  margin-bottom: 15px; /* Add some space below headlines */
+}
+
+h4 {
+  font-size: 1.4em; /* Larger H4 */
+}
+
+header h1 a { /* New rule to remove underline from main title link */
+  text-decoration: none;
+  color: #333; /* Darker color for title */
+}
+
+header nav {
+  display: flex;
+  justify-content: center;
+}
+
+header nav a {
+  font-size: 1.1em; /* Increased font size for nav links */
+  font-weight: bold; /* Bold nav links */
+  padding: 8px 12px; /* Add padding to nav links */
+  margin: 0 5px; /* Adjust margin for nav links */
+  border: 1px solid #ccc; /* Add a border to nav links */
+  border-radius: 5px; /* Rounded corners for nav links */
+  text-decoration: none;
+  color: #555; /* Grey color for nav links */
+  transition: all 0.3s ease; /* Smooth transition for hover effect */
+}
+
+header nav a:hover {
+  background-color: #333; /* Dark background on hover */
+  color: #fff; /* White text on hover */
+  border-color: #333; /* Dark border on hover */
+}
+
+img {
+  max-width: 100%;
+  border-radius: 10px;
+  margin: 20px 0;
+}
+
+/* Kickoff Countdown Styling */
+#countdown {
+  font-size: 1.8em; /* Slightly larger countdown */
+  font-weight: bold;
+  color: lime;
+  border: 2px solid lime; /* Lime green border */
+  padding: 15px;
+  background-color: black; /* Black background */
+  text-align: center;
+  margin-bottom: 20px;
+  border-radius: 8px;
+}
+
+/* Team Statistical Comparison Styling */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+  border: 1px solid #ccc; /* Light grey border for the table */
+}
+
+th, td {
+  border: 1px solid #eee; /* Lighter border for cells */
+  padding: 10px;
+  text-align: left;
+}
+
+th {
+  background-color: #f2f2f2; /* Light grey background for table headers */
+  font-weight: bold;
+}
+
+tr:nth-child(even) {
+  background-color: #f9f9f9; /* Zebra striping for table rows */
+}
+
+/* Responsive Design */
+@media screen and (max-width: 768px) {
+  body {
+    padding: 15px;
+    font-size: 1.1em;
+  }
+
+  h1 {
+    font-size: 2em;
+  }
+
+  h2 {
+    font-size: 1.8em;
+  }
+  
+  header nav a {
+    padding: 6px 10px;
+    margin: 0 3px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  body {
+    padding: 10px;
+    font-size: 1em;
+  }
+  
+  header nav {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  header nav a {
+    margin: 5px 0;
+    width: 80%;
+    text-align: center;
+  }
+
+  h1 {
+    font-size: 1.8em;
+  }
+
+  h2 {
+    font-size: 1.5em;
+  }
+
+  h3 {
+    font-size: 1.3em;
+  }
+  
+  h4 {
+    font-size: 1.1em;
+  }
+
+  #countdown {
+    font-size: 1.2em;
+  }
+}
