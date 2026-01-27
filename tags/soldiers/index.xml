@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Soldiers on Daytona 500 | The Great American Race</title>
+    <link>http://localhost:1313/tags/soldiers/</link>
+    <description>Recent content in Soldiers on Daytona 500 | The Great American Race</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/soldiers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trump says UK soldiers in Afghanistan &#39;among greatest of all warriors&#39;</title>
+      <link>http://localhost:1313/news/trump-says-uk-soldiers-in-afghanistan-among-greatest-of-all-warriors/</link>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/trump-says-uk-soldiers-in-afghanistan-among-greatest-of-all-warriors/</guid>
+      <description>The US president&amp;rsquo;s praise follows his claim that allied forces avoided the front lines during the Afghanistan conflict.</description>
+    </item>
+  </channel>
+</rss>

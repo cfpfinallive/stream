@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latest on Daytona 500 | The Great American Race</title>
+    <link>http://localhost:1313/tags/latest/</link>
+    <description>Recent content in Latest on Daytona 500 | The Great American Race</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/latest/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bill Clinton says Trump admin &#39;told us not to believe what we&#39;ve seen&#39; after latest Minnesota shooting</title>
+      <link>http://localhost:1313/news/bill-clinton-says-trump-admin-told-us-not-to-believe-what-we-ve-seen-after-latest-minnesota-shooting/</link>
+      <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/bill-clinton-says-trump-admin-told-us-not-to-believe-what-we-ve-seen-after-latest-minnesota-shooting/</guid>
+      <description>Former President Bill Clinton said federal immigration agents are engaging in &amp;quot;increasingly aggressive and antagonistic tactics&amp;quot; after another fatal shooting in Minnesota.</description>
+    </item>
+  </channel>
+</rss>

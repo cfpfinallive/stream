@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Super on Daytona 500 | The Great American Race</title>
+    <link>http://localhost:1313/tags/super/</link>
+    <description>Recent content in Super on Daytona 500 | The Great American Race</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/super/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Patriots head back to Super Bowl after narrow AFC title win over Broncos</title>
+      <link>http://localhost:1313/news/patriots-head-back-to-super-bowl-after-narrow-afc-title-win-over-broncos/</link>
+      <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/patriots-head-back-to-super-bowl-after-narrow-afc-title-win-over-broncos/</guid>
+      <description>The Denver Broncos and New England Patriots on Sunday battled to see who would represent the AFC in Super Bowl next month. The Patriots came out on top.</description>
+    </item>
+    <item>
+      <title>Seahawks earn trip to Super Bowl LX with thrilling victory over Rams in NFC Championship Game</title>
+      <link>http://localhost:1313/news/seahawks-earn-trip-to-super-bowl-lx-with-thrilling-victory-over-rams-in-nfc-championship-game/</link>
+      <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/seahawks-earn-trip-to-super-bowl-lx-with-thrilling-victory-over-rams-in-nfc-championship-game/</guid>
+      <description>The Seattle Seahawks are heading back to the Super Bowl, as they defeated the Los Angeles Rams, 31-27, in a thrilling NFC Championship Game</description>
+    </item>
+    <item>
+      <title>Super Bowl LX: What to know about the game</title>
+      <link>http://localhost:1313/news/super-bowl-lx-what-to-know-about-the-game/</link>
+      <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/super-bowl-lx-what-to-know-about-the-game/</guid>
+      <description>Drake Maye got the New England Patriots past the Denver Broncos and Sam Darnold helped the Seattle Seahawks edge the Los Angeles Rams. Super Bowl LX is set.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Actions on Daytona 500 | The Great American Race</title>
+    <link>http://localhost:1313/tags/actions/</link>
+    <description>Recent content in Actions on Daytona 500 | The Great American Race</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/actions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tim Walz compares Minnesota ICE actions to Holocaust and Anne Frank: &#39;Hiding in their houses&#39;</title>
+      <link>http://localhost:1313/news/tim-walz-compares-minnesota-ice-actions-to-holocaust-and-anne-frank-hiding-in-their-houses/</link>
+      <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/tim-walz-compares-minnesota-ice-actions-to-holocaust-and-anne-frank-hiding-in-their-houses/</guid>
+      <description>Gov. Tim Walz likened Minnesota immigration enforcement to the Holocaust and Anne Frank after a fatal Minneapolis shooting that killed VA nurse Alex Pretti, saying children now fear leaving home.</description>
+    </item>
+  </channel>
+</rss>

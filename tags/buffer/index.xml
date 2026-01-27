@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Buffer on Daytona 500 | The Great American Race</title>
+    <link>http://localhost:1313/tags/buffer/</link>
+    <description>Recent content in Buffer on Daytona 500 | The Great American Race</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/buffer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>‘Yellow line’, the de facto Israeli buffer zone shaping life in Gaza</title>
+      <link>http://localhost:1313/news/yellow-line-the-de-facto-israeli-buffer-zone-shaping-life-in-gaza/</link>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/yellow-line-the-de-facto-israeli-buffer-zone-shaping-life-in-gaza/</guid>
+      <description>The so-called yellow line has been squeezing Palestinians into smaller areas, making their lives more difficult.</description>
+    </item>
+  </channel>
+</rss>

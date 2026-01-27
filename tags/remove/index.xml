@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Remove on Daytona 500 | The Great American Race</title>
+    <link>http://localhost:1313/tags/remove/</link>
+    <description>Recent content in Remove on Daytona 500 | The Great American Race</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/remove/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Minneapolis protesters march against ICE as governor urges Trump to remove agents</title>
+      <link>http://localhost:1313/news/minneapolis-protesters-march-against-ice-as-governor-urges-trump-to-remove-agents/</link>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/minneapolis-protesters-march-against-ice-as-governor-urges-trump-to-remove-agents/</guid>
+      <description>Second fatal shooting an &amp;lsquo;inflection point&amp;rsquo; says Tim Walz as protests spread over Saturday&amp;rsquo;s shooting of intensive care nurse Alex Pretti in Minneapolis.</description>
+    </item>
+    <item>
+      <title>Minnesota Gov Walz demands Trump remove border agents after nurse killed</title>
+      <link>http://localhost:1313/news/minnesota-gov-walz-demands-trump-remove-border-agents-after-nurse-killed/</link>
+      <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/minnesota-gov-walz-demands-trump-remove-border-agents-after-nurse-killed/</guid>
+      <description>US president faces intensifying pressure over immigration crackdown following a second fatal shooting in Minneapolis.</description>
+    </item>
+  </channel>
+</rss>

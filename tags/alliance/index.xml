@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alliance on Daytona 500 | The Great American Race</title>
+    <link>http://localhost:1313/tags/alliance/</link>
+    <description>Recent content in Alliance on Daytona 500 | The Great American Race</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/alliance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trade an alliance for an island? That’s a bad deal - CNN</title>
+      <link>http://localhost:1313/news/trade-an-alliance-for-an-island-that-s-a-bad-deal-cnn/</link>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/trade-an-alliance-for-an-island-that-s-a-bad-deal-cnn/</guid>
+      <description>Trade an alliance for an island? That’s a bad deal  CNN</description>
+    </item>
+  </channel>
+</rss>

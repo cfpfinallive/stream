@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Everything on Daytona 500 | The Great American Race</title>
+    <link>http://localhost:1313/tags/everything/</link>
+    <description>Recent content in Everything on Daytona 500 | The Great American Race</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/everything/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trump confirms federal review of Minneapolis shooting that killed nurse: &#39;Reviewing everything&#39;</title>
+      <link>http://localhost:1313/news/trump-confirms-federal-review-of-minneapolis-shooting-that-killed-nurse-reviewing-everything/</link>
+      <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/trump-confirms-federal-review-of-minneapolis-shooting-that-killed-nurse-reviewing-everything/</guid>
+      <description>President Trump told the Wall Street Journal his administration is “reviewing everything” after the Minneapolis shooting that killed nurse Alex Pretti, as questions swirl.</description>
+    </item>
+  </channel>
+</rss>

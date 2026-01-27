@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Patriots on Daytona 500 | The Great American Race</title>
+    <link>http://localhost:1313/tags/patriots/</link>
+    <description>Recent content in Patriots on Daytona 500 | The Great American Race</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/patriots/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Drake Maye&#39;s controversial fourth-down play sparks social media fury as Patriots head to Super Bowl LX</title>
+      <link>http://localhost:1313/news/drake-maye-s-controversial-fourth-down-play-sparks-social-media-fury-as-patriots-head-to-super-bowl-lx/</link>
+      <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/drake-maye-s-controversial-fourth-down-play-sparks-social-media-fury-as-patriots-head-to-super-bowl-lx/</guid>
+      <description>A game-changing fourth-and-1 conversion by Drake Maye sent Patriots to Super Bowl LX despite officials&#39; disputed call that Broncos challenged unsuccessfully.</description>
+    </item>
+    <item>
+      <title>Patriots head back to Super Bowl after narrow AFC title win over Broncos</title>
+      <link>http://localhost:1313/news/patriots-head-back-to-super-bowl-after-narrow-afc-title-win-over-broncos/</link>
+      <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/patriots-head-back-to-super-bowl-after-narrow-afc-title-win-over-broncos/</guid>
+      <description>The Denver Broncos and New England Patriots on Sunday battled to see who would represent the AFC in Super Bowl next month. The Patriots came out on top.</description>
+    </item>
+  </channel>
+</rss>

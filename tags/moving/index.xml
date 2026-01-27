@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Moving on Daytona 500 | The Great American Race</title>
+    <link>http://localhost:1313/tags/moving/</link>
+    <description>Recent content in Moving on Daytona 500 | The Great American Race</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/moving/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trump says ‘US armada’ moving towards Iran as tensions escalate</title>
+      <link>http://localhost:1313/news/trump-says-us-armada-moving-towards-iran-as-tensions-escalate/</link>
+      <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/trump-says-us-armada-moving-towards-iran-as-tensions-escalate/</guid>
+      <description>Trump ordered an aircraft carrier and a guided-missile strike group to the Middle East as tensions soar with Iran.</description>
+    </item>
+  </channel>
+</rss>

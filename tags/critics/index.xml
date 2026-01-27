@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Critics on Daytona 500 | The Great American Race</title>
+    <link>http://localhost:1313/tags/critics/</link>
+    <description>Recent content in Critics on Daytona 500 | The Great American Race</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/critics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Russia using Interpol&#39;s wanted list to target critics abroad, leak reveals</title>
+      <link>http://localhost:1313/news/russia-using-interpol-s-wanted-list-to-target-critics-abroad-leak-reveals/</link>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/russia-using-interpol-s-wanted-list-to-target-critics-abroad-leak-reveals/</guid>
+      <description>A leak exposes for the first time the extent of Russia’s misuse of Interpol to request the arrest of critics.</description>
+    </item>
+    <item>
+      <title>Russia using Interpol&#39;s wanted list to target critics abroad, leak reveals - BBC</title>
+      <link>http://localhost:1313/news/russia-using-interpol-s-wanted-list-to-target-critics-abroad-leak-reveals-bbc/</link>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/russia-using-interpol-s-wanted-list-to-target-critics-abroad-leak-reveals-bbc/</guid>
+      <description>Russia using Interpol&amp;rsquo;s wanted list to target critics abroad, leak reveals  BBC</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kangaroo on Daytona 500 | The Great American Race</title>
+    <link>http://localhost:1313/tags/kangaroo/</link>
+    <description>Recent content in Kangaroo on Daytona 500 | The Great American Race</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/kangaroo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cyclist wins Australia race despite being knocked off by Kangaroo</title>
+      <link>http://localhost:1313/news/cyclist-wins-australia-race-despite-being-knocked-off-by-kangaroo/</link>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/cyclist-wins-australia-race-despite-being-knocked-off-by-kangaroo/</guid>
+      <description>Australian Jay Vine wins the Tour Down Under - despite being knocked off his bike in a crash caused by a kangaroo.</description>
+    </item>
+  </channel>
+</rss>

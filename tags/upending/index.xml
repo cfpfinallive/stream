@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Upending on Daytona 500 | The Great American Race</title>
+    <link>http://localhost:1313/tags/upending/</link>
+    <description>Recent content in Upending on Daytona 500 | The Great American Race</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/upending/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why is Trump upending 80 years of US foreign policy?</title>
+      <link>http://localhost:1313/news/why-is-trump-upending-80-years-of-us-foreign-policy/</link>
+      <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/why-is-trump-upending-80-years-of-us-foreign-policy/</guid>
+      <description>Former Trump official Christian Whiton argues it is about time to press ‘reset’ on US relations with the world.</description>
+    </item>
+  </channel>
+</rss>

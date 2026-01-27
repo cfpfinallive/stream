@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Championship on Daytona 500 | The Great American Race</title>
+    <link>http://localhost:1313/tags/championship/</link>
+    <description>Recent content in Championship on Daytona 500 | The Great American Race</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/championship/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Seahawks earn trip to Super Bowl LX with thrilling victory over Rams in NFC Championship Game</title>
+      <link>http://localhost:1313/news/seahawks-earn-trip-to-super-bowl-lx-with-thrilling-victory-over-rams-in-nfc-championship-game/</link>
+      <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/seahawks-earn-trip-to-super-bowl-lx-with-thrilling-victory-over-rams-in-nfc-championship-game/</guid>
+      <description>The Seattle Seahawks are heading back to the Super Bowl, as they defeated the Los Angeles Rams, 31-27, in a thrilling NFC Championship Game</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Criminal on Daytona 500 | The Great American Race</title>
+    <link>http://localhost:1313/tags/criminal/</link>
+    <description>Recent content in Criminal on Daytona 500 | The Great American Race</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/criminal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ICE says violent mob helped criminal escape and left ICE agent permanently maimed</title>
+      <link>http://localhost:1313/news/ice-says-violent-mob-helped-criminal-escape-and-left-ice-agent-permanently-maimed/</link>
+      <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/ice-says-violent-mob-helped-criminal-escape-and-left-ice-agent-permanently-maimed/</guid>
+      <description>Federal officials say Minneapolis unrest derailed immigration arrest, leaving suspect at large while ICE agent lost part of finger to agitator bite.</description>
+    </item>
+  </channel>
+</rss>

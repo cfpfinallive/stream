@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Extends on Daytona 500 | The Great American Race</title>
+    <link>http://localhost:1313/tags/extends/</link>
+    <description>Recent content in Extends on Daytona 500 | The Great American Race</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/extends/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Israel extends ban on Al Jazeera’s operations by 90 days</title>
+      <link>http://localhost:1313/news/israel-extends-ban-on-al-jazeera-s-operations-by-90-days/</link>
+      <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/israel-extends-ban-on-al-jazeera-s-operations-by-90-days/</guid>
+      <description>Since May 2024, Israeli law has banned the network, citing threat to national security, an allegation Al Jazeera denies.</description>
+    </item>
+  </channel>
+</rss>

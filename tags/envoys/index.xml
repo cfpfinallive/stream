@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Envoys on Daytona 500 | The Great American Race</title>
+    <link>http://localhost:1313/tags/envoys/</link>
+    <description>Recent content in Envoys on Daytona 500 | The Great American Race</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/envoys/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Envoys from US meet Netanyahu as Israel continues to bomb Gaza</title>
+      <link>http://localhost:1313/news/envoys-from-us-meet-netanyahu-as-israel-continues-to-bomb-gaza/</link>
+      <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/envoys-from-us-meet-netanyahu-as-israel-continues-to-bomb-gaza/</guid>
+      <description>Medical sources say at least three Palestinians have been killed and many wounded throughout the day in Israeli attacks.</description>
+    </item>
+  </channel>
+</rss>

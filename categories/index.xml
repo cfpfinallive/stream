@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on CFP National Championship Game 2026 || Indiana Hoosiers vs Miami Hurricanes</title>
-    <link>https://cfpfinallive.github.io/stream/categories/</link>
-    <description>Recent content in Categories on CFP National Championship Game 2026 || Indiana Hoosiers vs Miami Hurricanes</description>
+    <title>Categories on Daytona 500 | The Great American Race</title>
+    <link>https://tslbuzz.com/categories/</link>
+    <description>Recent content in Categories on Daytona 500 | The Great American Race</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://cfpfinallive.github.io/stream/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://tslbuzz.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aljazeera.com</title>
+      <link>https://tslbuzz.com/categories/aljazeera.com/</link>
+      <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://tslbuzz.com/categories/aljazeera.com/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Feeds.bbci.co.uk</title>
+      <link>https://tslbuzz.com/categories/feeds.bbci.co.uk/</link>
+      <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://tslbuzz.com/categories/feeds.bbci.co.uk/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>News.google.com</title>
+      <link>https://tslbuzz.com/categories/news.google.com/</link>
+      <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://tslbuzz.com/categories/news.google.com/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Feeds.foxnews.com</title>
+      <link>https://tslbuzz.com/categories/feeds.foxnews.com/</link>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://tslbuzz.com/categories/feeds.foxnews.com/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

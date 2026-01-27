@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Broncos on Daytona 500 | The Great American Race</title>
+    <link>http://localhost:1313/tags/broncos/</link>
+    <description>Recent content in Broncos on Daytona 500 | The Great American Race</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/broncos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Patriots head back to Super Bowl after narrow AFC title win over Broncos</title>
+      <link>http://localhost:1313/news/patriots-head-back-to-super-bowl-after-narrow-afc-title-win-over-broncos/</link>
+      <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/patriots-head-back-to-super-bowl-after-narrow-afc-title-win-over-broncos/</guid>
+      <description>The Denver Broncos and New England Patriots on Sunday battled to see who would represent the AFC in Super Bowl next month. The Patriots came out on top.</description>
+    </item>
+  </channel>
+</rss>
